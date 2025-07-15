@@ -4,7 +4,7 @@
 
 🛠️ Exploring full-stack development
 
-📚 Currently learning Java, JavaScript, C and SQL
+📚 Currently learning Java, Python, JavaScript, C and SQL
 
 ---
 
