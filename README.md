@@ -7,7 +7,7 @@ _"But seek the kingdom of God, and all these things shall be given to you."_
 
 🛠️ Exploring full-stack development
 
-📚 Currently learning Java, Python, JavaScript, C and SQL
+📚 Currently learning Python, Kotlin, Java, JavaScript, C and SQL
 
 ---
 
@@ -21,7 +21,8 @@ _"But seek the kingdom of God, and all these things shall be given to you."_
 
 ### 👨‍💻Languages & Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />          
+<img align="left" alt="Python" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Kotlin" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
