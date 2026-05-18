@@ -1,5 +1,5 @@
-📖**Luke 12:31**  
-_"But seek the kingdom of God, and all these things shall be given to you."_ 
+📖**1John 5:5**  
+_"Who is the one who conquers the world but the one who believes that Jesus is the Son of God?"_ 
 
 ### Hi there! I'm Davi Jordani Ramos👋
 
