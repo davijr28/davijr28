@@ -1,34 +1,50 @@
-📖**1John 5:5**  
-_"Who is the one who conquers the world but the one who believes that Jesus is the Son of God?"_ 
+<div align="center">
+  
+📖 **Romans 16:27** -
+*"to the only wise God, through Jesus Christ be glory forever and ever. Amen."*
 
-### Hi there! I'm Davi Jordani Ramos👋
+# Hi there, I'm Davi Jordani Ramos 👋
 
-🎓 Computer Engineering student
+</div>
 
-🛠️ Exploring full-stack development
 
-📚 Currently learning Python, Kotlin, Java, JavaScript, C and SQL
+### About Me:
+
+- 🎓 Computer Engineering student
+- 🛠️ Exploring full-stack development
+- 📚 Currently learning **Python, Kotlin, Java, JavaScript, C and SQL**
 
 ---
 
-### 📊Stats
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davijr28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davijr28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=davijr28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true&order=1" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davijr28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=true&order=2" height="165" alt="languages graph" />
 </div>
 
 ---
 
-### 👨‍💻Languages & Tools
+### 🛠️ Languages & Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="SQL" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="left" alt="SQLite" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<div align="center">
 
+<img alt="Python" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img alt="Kotlin" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+<img alt="Java" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img alt="JavaScript" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img alt="C" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img alt="MySQL" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img alt="SQL Server" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img alt="SQLite" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+<img alt="Docker" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=davijr28&color=blueviolet&style=flat)
+
+</div>
